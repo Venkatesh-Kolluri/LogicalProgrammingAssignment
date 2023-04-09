@@ -8,7 +8,7 @@ namespace LogicalProgramming
 {
     internal class ReverseNumber
     {
-    /*    public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int num;
             Console.WriteLine("Enter a number to be reversed: ");
@@ -17,7 +17,7 @@ namespace LogicalProgramming
             int result = rev(num);
 
             Console.WriteLine(result);
-        }*/
+        }
         public static int rev(int num)
         {
             int ans = 0;
