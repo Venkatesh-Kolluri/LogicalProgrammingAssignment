@@ -9,7 +9,7 @@ namespace LogicalProgramming
 {
     internal class Fibonacci
     {
-      /*  public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int num;
             Console.WriteLine("Enter the number of Fibonacci you want: ");
@@ -28,7 +28,7 @@ namespace LogicalProgramming
                 c = a + b;
             }
 
-        }*/
+        }
       
     }
 }
