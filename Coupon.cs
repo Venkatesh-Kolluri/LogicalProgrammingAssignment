@@ -9,12 +9,12 @@ namespace LogicalProgramming
     internal class Coupon
     {
         
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int a = 100000;
              couponCode(a);
              
-        }*/
+        }
         static int value = 0;
         public static void couponCode(int a)
         {
