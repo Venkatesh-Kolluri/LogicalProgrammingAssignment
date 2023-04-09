@@ -9,7 +9,7 @@ namespace LogicalProgramming
 {
     internal class PerfectNumber
     {
- /*       public static void Main(string[] args)
+       public static void Main(string[] args)
         {
             int num;
             Console.WriteLine("Enter a number: ");
@@ -33,6 +33,6 @@ namespace LogicalProgramming
             {
                 Console.WriteLine("It is not a perfect Number");
             }
-        }*/
+        }
     }
 }
