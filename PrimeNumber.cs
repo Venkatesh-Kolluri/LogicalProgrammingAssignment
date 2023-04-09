@@ -8,7 +8,7 @@ namespace LogicalProgramming
 {
     internal class PrimeNumber
     {
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             int num;
             Console.WriteLine("Enter the positive number: ");
@@ -32,6 +32,6 @@ namespace LogicalProgramming
             {
                 Console.WriteLine("It is not a Prime Number");
             }
-        }*/
+        }
     }
 }
